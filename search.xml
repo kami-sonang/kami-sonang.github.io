@@ -11,6 +11,12 @@
         <content type="html"><![CDATA[<h1 id="动画曲线的颜色"><a href="#动画曲线的颜色" class="headerlink" title="动画曲线的颜色"></a>动画曲线的颜色</h1><p>1.关键帧以黄色表示</p><p>2.动画值以绿色表示</p><p>3.未被记录的值以橙色表示</p><h1 id="动画曲线"><a href="#动画曲线" class="headerlink" title="动画曲线"></a>动画曲线</h1><h2 id="自动k帧"><a href="#自动k帧" class="headerlink" title="自动k帧"></a>自动k帧</h2><p>当所选物体的变换发生变化时，会帮我们自动记录</p>]]></content>
       
       
+      <categories>
+          
+          <category> blender </category>
+          
+      </categories>
+      
       
     </entry>
     
