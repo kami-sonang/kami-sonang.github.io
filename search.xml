@@ -8,7 +8,7 @@
       <link href="/2022/06/10/blender%E5%8A%A8%E7%94%BB/"/>
       <url>/2022/06/10/blender%E5%8A%A8%E7%94%BB/</url>
       
-        <content type="html"><![CDATA[<h1 id="动画曲线的颜色"><a href="#动画曲线的颜色" class="headerlink" title="动画曲线的颜色"></a>动画曲线的颜色</h1><p>1.关键帧以黄色表示</p><p>2.动画值以绿色表示</p><p>3.未被记录的值以橙色表示</p><h1 id="动画曲线"><a href="#动画曲线" class="headerlink" title="动画曲线"></a>动画曲线</h1><h2 id="自动k帧"><a href="#自动k帧" class="headerlink" title="自动k帧"></a>自动k帧</h2><p>当所选物体的变换发生变化时，会帮我们自动记录</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="动画曲线的颜色"><a href="#动画曲线的颜色" class="headerlink" title="动画曲线的颜色"></a>动画曲线的颜色</h1><ul><li>关键帧以黄色表示</li><li>动画值以绿色表示</li><li>未被记录的值以橙色表示</li></ul><h1 id="动画曲线"><a href="#动画曲线" class="headerlink" title="动画曲线"></a>动画曲线</h1><h2 id="快捷键"><a href="#快捷键" class="headerlink" title="快捷键"></a>快捷键</h2><ul><li>自动K帧<br><img src="A:\mikublog\source\image\postpicture\button.png"></li><li>CTRL + Home 和 CTRL + End                        可以改变动画曲线的起始位置和结束位置</li><li>p和ATL+P                                                        p键可以框选需要播放的关键帧，ALT + p 取消该选择</li><li>CTRL + B                                                          为所选摄像机在动画曲线上添加标记，一旦标记，在相机视角下，<br>                                                                      就还在标记的地方切换到相应的相机运动路径</li></ul><h2 id="运动路径"><a href="#运动路径" class="headerlink" title="运动路径"></a>运动路径</h2><center class="half">    <img src="img\postpicture\path.png" width="300"/>    <img src="img\postpicture\path2.png" width="300"/></center>根据这个运动轨迹的间距，我们可以知道不同插值之间的关系，如贝塞尔，插值，线性]]></content>
       
       
       <categories>
